@@ -1,0 +1,1 @@
+Subversion ile ilgili bir makale yazarken örnek olarak bu projeyi yapmıştık. Bu projede Java ile bir JFrame'nin üzerindeki düğmeye tıklayınca "Merhaba Dünya" şeklinde bir mesaj veren uygulama yapacağız.
